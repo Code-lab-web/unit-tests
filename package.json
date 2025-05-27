@@ -11,6 +11,7 @@
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.6.3",
     "babel-jest": "^29.7.0",
+    "express": "^5.1.0",
     "jest": "^27.5.1"
   }
 }
